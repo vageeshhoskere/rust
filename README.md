@@ -1,0 +1,2 @@
+# rust
+Trial with Rust
